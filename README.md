@@ -1,4 +1,4 @@
-# Predicao Valor Imovel em Boston
+# Leitor de Digitos Manuscrito
 
 O projeto visa criar um modelo de machine learning que possa fazer a leitura de digitos manuscritos
 
